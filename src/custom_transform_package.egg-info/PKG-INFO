@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: custom-transform-package
+Version: 0.0.1
+Summary: custom transformer (for categorical features)
+Home-page: UNKNOWN
+Author: Henry Kim
+Author-email: henry.work02@gmail.com
+License: UNKNOWN
+Description: # Custom Transformer
+        
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
